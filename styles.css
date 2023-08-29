@@ -3,7 +3,7 @@ body {
   background-color: #283149;
 }
 
-h1 {
+h1,a {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -78,4 +78,11 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+  text-shadow: none;
 }
